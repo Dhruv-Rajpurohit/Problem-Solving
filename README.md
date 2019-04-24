@@ -1,3 +1,5 @@
+https://medium.com/@dhruv.n.rajpurohit
+
 Blog 1: Date: 7 Feb 2019
 
 Problem 1 : Two Sum , Asked in Companies Like(FB, MSFT, Amazon, Bloomberg, Uber, Linkedin, Yelp)
